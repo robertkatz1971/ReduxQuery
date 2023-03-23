@@ -1,5 +1,10 @@
 {
-    "users": [],
-    "albums": [],
-    "photos": []
+  "users": [
+    {
+      "name": "Louise Hilll MD",
+      "id": 1
+    }
+  ],
+  "albums": [],
+  "photos": []
 }
