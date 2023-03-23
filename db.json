@@ -1,10 +1,26 @@
 {
   "users": [
     {
-      "name": "Louise Hilll MD",
+      "name": "Marc Kub",
       "id": 1
     }
   ],
-  "albums": [],
+  "albums": [
+    {
+      "id": 1,
+      "title": "Jazz",
+      "userId": 1
+    },
+    {
+      "title": "Tasty Soft Salad",
+      "userId": 1,
+      "id": 2
+    },
+    {
+      "title": "Refined Rubber Bacon",
+      "userId": 1,
+      "id": 3
+    }
+  ],
   "photos": []
 }
