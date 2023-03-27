@@ -31,15 +31,26 @@
       "id": 13
     },
     {
-      "title": "Bespoke Rubber Chair",
-      "userId": 1,
-      "id": 14
-    },
-    {
       "title": "Handmade Soft Shirt",
       "userId": 2,
       "id": 15
+    },
+    {
+      "title": "Fantastic Rubber Chips",
+      "userId": 1,
+      "id": 16
     }
   ],
-  "photos": []
+  "photos": [
+    {
+      "url": "https://loremflickr.com/150/150/abstract?lock=69954",
+      "albumId": 16,
+      "id": 6
+    },
+    {
+      "url": "https://loremflickr.com/150/150/abstract?lock=88663",
+      "albumId": 12,
+      "id": 10
+    }
+  ]
 }
