@@ -1,25 +1,44 @@
 {
   "users": [
     {
-      "name": "Marc Kub",
+      "name": "Kristen Hoeger",
       "id": 1
+    },
+    {
+      "name": "Faye Windler",
+      "id": 2
     }
   ],
   "albums": [
     {
-      "id": 1,
-      "title": "Jazz",
-      "userId": 1
+      "title": "Awesome Steel Tuna",
+      "userId": 1,
+      "id": 7
     },
     {
-      "title": "Tasty Soft Salad",
-      "userId": 1,
-      "id": 2
+      "title": "Handcrafted Rubber Tuna",
+      "userId": 2,
+      "id": 9
     },
     {
-      "title": "Refined Rubber Bacon",
+      "title": "Oriental Soft Salad",
       "userId": 1,
-      "id": 3
+      "id": 12
+    },
+    {
+      "title": "Unbranded Wooden Bike",
+      "userId": 2,
+      "id": 13
+    },
+    {
+      "title": "Bespoke Rubber Chair",
+      "userId": 1,
+      "id": 14
+    },
+    {
+      "title": "Handmade Soft Shirt",
+      "userId": 2,
+      "id": 15
     }
   ],
   "photos": []
